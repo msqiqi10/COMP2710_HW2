@@ -1,0 +1,1 @@
+./a.out <<< "1500 8 200" | diff - tests/test5.txt

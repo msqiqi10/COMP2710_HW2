@@ -1,0 +1,1 @@
+Loan Amount: Interest Rate (% per year): Monthly Payments: Error: Payment must exceed initial monthly interest of $15.00
