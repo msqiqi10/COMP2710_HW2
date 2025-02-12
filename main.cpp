@@ -16,6 +16,7 @@ int main() {
     // cout << setw(5) << month << " | $" << fixed << setprecision(2) 
     //      << setw(9) << currentBalance << " | N/A     | N/A  | N/A      | N/A\n";
 
+    // Print monthly details
     // cout << setw(5) << month << " | $" << setw(9) << currentBalance
     //         << " | $" << setw(6) << payment
     //         << " | " << setw(3) << annualRate/12 << "%"
